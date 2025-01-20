@@ -55,7 +55,7 @@ JWT_SECRET=your_jwt_secret
 ![Product-list](https://github.com/user-attachments/assets/e18ac12e-22a4-424c-aa06-04b23c64c4ca)
 
 
-#Future Enhancements
+#Future Enhancements :
 Implement product search and filters.
 Add an admin panel for better product and user management.
 Integrate payment gateway for a complete shopping experience.
